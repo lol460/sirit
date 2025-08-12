@@ -1,4 +1,4 @@
-Sirit
+7Sirit
 =====
 A runtime SPIR-V assembler. It aims to ease dynamic SPIR-V code generation
 without calling external applications (like Khronos' `spirv-as`)  
